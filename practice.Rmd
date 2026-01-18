@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-author: "Author"
+title: "ANGSD GitHub Repo Practice"
+author: "Nishanth Chinnadurai"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
   html_document: 
